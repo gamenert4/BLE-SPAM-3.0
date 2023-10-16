@@ -18,12 +18,8 @@ void swiftpair_make_packet(uint8_t* out_size, uint8_t** out_packet, const BleSpa
         display_name = msg->display_name;
     } else {
         const char* names[] = {
-            //"Assquach💦",
-            "Flipper 🐬",
-            //"iOS 17 🍎",
-            //"Kink💦",
-            //"👉👌",
-            //"🔵🦷",
+            //"gay ass💦",
+            "Nigger 🌶️",
         };
         display_name = names[rand() % COUNT_OF(names)];
     }
